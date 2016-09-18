@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2799FAB41D8E8F6B009A43DB /* 搜索框.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2799FAB31D8E8F6B009A43DB /* 搜索框.gif */; };
 		EC5E45841D87ED6300370B56 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EC5E45831D87ED6300370B56 /* main.m */; };
 		EC5E45871D87ED6300370B56 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EC5E45861D87ED6300370B56 /* AppDelegate.m */; };
 		EC5E458A1D87ED6300370B56 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC5E45891D87ED6300370B56 /* ViewController.m */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2799FAB31D8E8F6B009A43DB /* 搜索框.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "搜索框.gif"; sourceTree = "<group>"; };
 		EC5E457F1D87ED6300370B56 /* LALSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LALSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC5E45831D87ED6300370B56 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EC5E45851D87ED6300370B56 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 		EC5E45811D87ED6300370B56 /* LALSearch */ = {
 			isa = PBXGroup;
 			children = (
+				2799FAB31D8E8F6B009A43DB /* 搜索框.gif */,
 				EC5E45991D87ED9600370B56 /* HKSeachBar.h */,
 				EC5E459A1D87ED9600370B56 /* HKSeachBar.m */,
 				EC5E459B1D87ED9600370B56 /* HKSearchManager.h */,
@@ -160,6 +163,7 @@
 				EC5E45921D87ED6300370B56 /* LaunchScreen.storyboard in Resources */,
 				EC5E458F1D87ED6300370B56 /* Assets.xcassets in Resources */,
 				EC5E458D1D87ED6300370B56 /* Main.storyboard in Resources */,
+				2799FAB41D8E8F6B009A43DB /* 搜索框.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -333,6 +337,7 @@
 				EC5E45981D87ED6300370B56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
